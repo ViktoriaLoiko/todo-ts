@@ -11,8 +11,6 @@ The application runs entirely in the browser and supports task creation, drag & 
 
 ## 🖼️ Screenshot
 
-> *(Add a screenshot here when ready)*
-> `![App Screenshot](./screenshot.png)`
 > <img width="1907" height="779" alt="Screenshot 2025-12-09 141232" src="https://github.com/user-attachments/assets/707c66a4-c68f-43e1-923e-17eb37dbabe0" />
 
 
