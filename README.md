@@ -60,7 +60,7 @@ Development mode (watch for changes):
 npm run dev
 ```
 
-The compiled files are located in the **dist/** directory.
+The files are located in the **dist/** directory.
 
 ---
 
