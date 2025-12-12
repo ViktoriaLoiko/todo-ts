@@ -46,7 +46,7 @@ The application runs entirely in the browser and supports task creation, drag & 
 Clone the repository and install dependencies:
 
 ```sh
-git clone <repository-url>
+git clone  https://github.com/ViktoriaLoiko/todo-ts.git
 cd <project-folder>
 npm install
 ```
@@ -186,7 +186,7 @@ Feel free to open an issue if you'd like a new feature or want to report a bug.
 Клонируйте репозиторий и установите зависимости:
 
 ```sh
-git clone <repository-url>
+git clone  https://github.com/ViktoriaLoiko/todo-ts.git
 cd <project-folder>
 npm install
 ```
